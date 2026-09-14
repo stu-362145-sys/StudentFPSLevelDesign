@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c9049151a9d31e24b9bfd15cf725eb52, type: 3}
+  m_Name: OliR_Manor
+  m_EditorClassIdentifier: 
+  sceneName: OliR_Manor
+  displayName: Manor
+  creatorName: By Oliver Ranns
+  levelPrefab: {fileID: 5115060657782514083, guid: f6ca98d3746f205478cc70141f533645, type: 3}
+  previewScale: {x: 0.1, y: 0.1, z: 0.1}

@@ -1531,8 +1531,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   levels:
-  - {fileID: 11400000, guid: 117ad0747b4948f44b65407c1885da97, type: 2}
-  - {fileID: 11400000, guid: d0ecc2bd4257aa04cbceba3d28a5b538, type: 2}
+  - {fileID: 11400000, guid: bdd91429fbcbc9e4680a7359e777b04c, type: 2}
   previewSpawnPoint: {fileID: 722200091}
   levelNameText: {fileID: 1822012797}
   creatorNameText: {fileID: 1615105823}
